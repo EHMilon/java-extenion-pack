@@ -1,0 +1,21 @@
+{
+  "name": "java-extension-pack",
+  "displayName": ".Java Extension Pack",
+	"description": "Java Development Environment in Visual Studio Code",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"icon": "icon.png",
+	"publisher": "EH.Milon",
+	"extensionPack": [
+		"redhat.java",
+		"vscjava.vscode-java-debug"
+	],
+	"__metadata": {
+		"installedTimestamp": 1682866189663
+	}
+}
